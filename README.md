@@ -9,6 +9,7 @@
 * Để bắt đầu chương trình: 'python3 main.py'
 * Khởi tạo các giá trị cho trình mô phỏng: 'boot [time quantum]'
 * Tạo tiến trình để đưa vào hệ thống: 'create [path code] [arrival time]'
+  Ở đây thực hiện tạo tiến trình từ file mã code được định nghĩa trước tại source/proc_1.txt và proc_2.txt. 
 * Để bắt đầu mô phỏng quá trình chạy: 'run'
 
 ### Lưu ý để mô phỏng tín hiệu IO:
